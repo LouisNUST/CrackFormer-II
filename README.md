@@ -70,7 +70,7 @@ We reproduce two classical cracksegmentation models SDDNet and STRNet and the jo
 
 [SDDNet: Real-Time Crack Segmentation](https://ieeexplore.ieee.org/abstract/document/8863123)
 
-[STRNet: Efficient attention-based deep encoder and decoder for automatic crack segmentation](https://journals.sagepub.com/doi/full/10.1177/14759217211053776)
+
 
 | dataset    | [SDDNet](https://drive.google.com/file/d/1Q72L4nR6kLpW2N9u0IlqpvAO522jc50z/view?usp=share_link)(Original) | [SDDNet](https://drive.google.com/file/d/1en8kssPcETVlwO7m92HSsk2dj9itRwuD/view?usp=share_link)(Modified) |
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -80,7 +80,7 @@ We reproduce two classical cracksegmentation models SDDNet and STRNet and the jo
 | crack537   | [Link](https://drive.google.com/file/d/1a9O8HWhv5Yfv8ndqPLzzgljD6eQPY22y/view?usp=share_link) | /                                                            |
 
 
-
+[STRNet: Efficient attention-based deep encoder and decoder for automatic crack segmentation](https://journals.sagepub.com/doi/full/10.1177/14759217211053776)
 
 | dataset        | [STRNet](https://drive.google.com/file/d/15vtHFKvyWNOsWi3f1PJcjR-Nr9DMh2V4/view?usp=share_link)(Original) | [STRNet](https://drive.google.com/file/d/15QDEAWWwaI62sDB7oz_otSXQNTXH-Lhj/view?usp=share_link)(Modified) |
 | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
