@@ -5,6 +5,10 @@
 >[CrackFormer: Transformer Network for Fine-Grained Crack Detection
 >Huajun Liu, Xiangyu Miao, Christoph Mertz, Chengzhong Xu, Hui Kong; 
 ICCV2021](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_CrackFormer_Transformer_Network_for_Fine-Grained_Crack_Detection_ICCV_2021_paper.html)
+>
+>[CrackFormer Network for Pavement Crack Segmentation
+>Huajun Liu, Jing Yang, Xiangyu Miao, Christoph Mertz, Hui Kong; 
+IEEE TITS 2023](https://ieeexplore.ieee.org/abstract/document/10109158)
 
 ## usage
 ### datasets
