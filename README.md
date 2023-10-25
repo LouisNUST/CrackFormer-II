@@ -105,26 +105,15 @@ We reproduce two classical cracksegmentation models SDDNet and STRNet and the jo
 >pages     = {3783-3792}
 >}
 >
->@article{choi2019sddnet,
->title={SDDNet: Real-time crack segmentation},
->author={Choi, Wooram and Cha, Young-Jin},
->journal={IEEE Transactions on Industrial Electronics},
->volume={67},
+>@article{Liu2023CrackFormer,
+>title={CrackFormer Network for Pavement Crack Segmentation},
+>author={Huajun Liu and Jing Yang and Xiangyu Miao and Christoph Mertz and Hui Kong},
+>journal={IEEE Transactions on Intelligent Transportation Systems},
+>volume={24},
 >number={9},
->pages={8016--8025},
->year={2019},
+>pages={9240-9252},
+>year={2023},
 >publisher={IEEE}
->}
->
->@article{kang2022efficient,
->title={Efficient attention-based deep encoder and decoder for automatic crack segmentation},
->author={Kang, Dong H and Cha, Young-Jin},
->journal={Structural Health Monitoring},
->volume={21},
->number={5},
->pages={2190--2205},
->year={2022},
->publisher={SAGE Publications Sage UK: London, England}
 >}
 >
 >```
